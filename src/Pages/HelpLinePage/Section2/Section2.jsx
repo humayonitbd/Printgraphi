@@ -10,23 +10,23 @@ const Section2 = () => {
                     <div className='grid grid-cols-2'>
                     <div className='mr-10'>
                         <div className='flex justify-between items-center border py-4 px-2 mb-4'>
-                            <p className='mr-10 text-lg'>Getting Started With Calendars</p>
+                            <p className='mr-10 text-lg link-hover'>Getting Started With Calendars</p>
                             <p><ChevronRightIcon className='h-4 w-4' /></p>
                         </div>
                         <div className='flex justify-between items-center border  py-4 px-2 mb-4'>
-                            <p className='mr-10 text-lg'>Getting Started With Calendars</p>
+                            <p className='mr-10 text-lg link-hover'>Getting Started With Calendars</p>
                             <p><ChevronRightIcon className='h-4 w-4' /></p>
                         </div>
                         <div className='flex justify-between items-center border  py-4 px-2 mb-4'>
-                            <p className='mr-10 text-lg'>Getting Started With Calendars</p>
+                            <p className='mr-10 text-lg link-hover'>Getting Started With Calendars</p>
                             <p><ChevronRightIcon className='h-4 w-4' /></p>
                         </div>
                         <div className='flex justify-between items-center border  py-4 px-2 mb-4'>
-                            <p className='mr-10 text-lg'>Getting Started With Calendars</p>
+                            <p className='mr-10 text-lg link-hover'>Getting Started With Calendars</p>
                             <p><ChevronRightIcon className='h-4 w-4' /></p>
                         </div>
                         <div className='flex justify-between items-center border  py-4 px-2 mb-4'>
-                            <p className='mr-10 text-lg'>Getting Started With Calendars</p>
+                            <p className='mr-10 text-lg link-hover'>Getting Started With Calendars</p>
                             <p><ChevronRightIcon className='h-4 w-4' /></p>
                         </div>
                         
@@ -34,19 +34,19 @@ const Section2 = () => {
                     </div>
                     <div>
                         <div className='flex justify-between items-center border  py-4 px-2 mb-4'>
-                            <p className='mr-10 text-lg'>Getting Started With Calendars</p>
+                            <p className='mr-10 text-lg link-hover'>Getting Started With Calendars</p>
                             <p><ChevronRightIcon className='h-4 w-4' /></p>
                         </div>
                         <div className='flex justify-between items-center border  py-4 px-2 mb-4'>
-                            <p className='mr-10 text-lg'>Getting Started With Calendars</p>
+                            <p className='mr-10 text-lg link-hover'>Getting Started With Calendars</p>
                             <p><ChevronRightIcon className='h-4 w-4' /></p>
                         </div>
                         <div className='flex justify-between items-center border  py-4 px-2 mb-4'>
-                            <p className='mr-10 text-lg'>Getting Started With Calendars</p>
+                            <p className='mr-10 text-lg link-hover'>Getting Started With Calendars</p>
                             <p><ChevronRightIcon className='h-4 w-4' /></p>
                         </div>
                         <div className='flex justify-between items-center border  py-4 px-2 mb-4'>
-                            <p className='mr-10 text-lg'>Getting Started With Calendars</p>
+                            <p className='mr-10 text-lg link-hover'>Getting Started With Calendars</p>
                             <p><ChevronRightIcon className='h-4 w-4' /></p>
                         </div>
                         
