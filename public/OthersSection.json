@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        
+        "name": "Black t-shirt",
+        "thumbnail": "https://static-01.daraz.com.bd/p/38a8e822da9fe774e7381188a8db832a.jpg",
+        "link": "/category/637f412d291a873c0831f598"
+        
+    },
+    {
+        "id": 2,
+        "name": "White t-shirt",
+        "thumbnail": "https://img.freepik.com/premium-photo/white-tshirt-mockup-ai-generation_201606-6260.jpg",
+        "link": "/category/637f412d291a873c0831f599"
+    },
+    {
+        "id": 3,
+        "name": "Digital Camera",
+        "thumbnail": "https://asia.canon/media/image/2023/05/19/b89bed4e21e540f985dedebe80166def_EOS+R100+RF-S18-45mm+Front+Slant.png",
+        "link": "/category/637f412d291a873c0831f597"
+    },
+    {
+        "id": 4,
+        "name": "Hand-watch",
+        "thumbnail": "https://images.othoba.com/images/thumbs/0504904_mens-fashionable-wrist-watch.webp",
+        "link": "/category/637f412d291a873c0831f596"
+        
+    }
+    
+]

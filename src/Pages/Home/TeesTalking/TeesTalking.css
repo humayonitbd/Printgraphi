@@ -1,0 +1,10 @@
+
+.bgTeesTalking{
+    background: url('/src/assets/MXP23221-Aug-21-Homepage-Banner-Tshirt-Final-001.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    width: 100%;
+    height: 450px;
+}
